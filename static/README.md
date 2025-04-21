@@ -14,10 +14,4 @@
 ---
 
 ## 📁 Структура проекта
-.
-├── app.py
-├── Dockerfile
-├── requirements.txt
-├── docker-compose.yaml
-└── static/
-    └── UhXC1nzm3h.jpg
+. ├── app.py # Flask-приложение ├── Dockerfile # Docker образ для Flask ├── docker-compose.yaml # Сборка Flask + Redis ├── requirements.txt # Python зависимости └── static/ └── UhXC1nzm3h.jpg # Картинка для /image
