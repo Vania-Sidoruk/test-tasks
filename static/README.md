@@ -12,6 +12,3 @@
 - `/` — главная страница с удобными ссылками на все маршруты
 
 ---
-
-## 📁 Структура проекта
-. ├── app.py # Flask-приложение ├── Dockerfile # Docker образ для Flask ├── docker-compose.yaml # Сборка Flask + Redis ├── requirements.txt # Python зависимости └── static/ └── UhXC1nzm3h.jpg # Картинка для /image
